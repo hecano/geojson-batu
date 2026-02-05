@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS Karsa Husada Batu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5241, -7.8666]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMA Negeri 1 Batu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5269, -7.8713]
+      }
+    }
+  ]
+}
