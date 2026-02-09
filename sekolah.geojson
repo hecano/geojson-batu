@@ -4,11 +4,13 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "SMA Negeri 1 Batu"
+        "nama": "SMA Negeri 1 Batu",
+        "jenjang": "SMA",
+        "alamat": "Jl. Sudiro No. 1, Kota Batu"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [112.5269, -7.8713]
+        "coordinates": [112.5267, -7.8718]
       }
     }
   ]
