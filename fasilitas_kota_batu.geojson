@@ -7,6 +7,8 @@
       "properties": {
         "nama": "RSUD Karsa Husada Batu",
         "alamat": "Jl. Ahmad Yani No.11-13",
+        "kelurahan": "Ngaglik",
+        "kecamatan": "Batu",
         "kategori": "Infrastruktur Kesehatan",
         "sub_kategori": "Rumah Sakit"
       },
@@ -20,6 +22,8 @@
       "properties": {
         "nama": "RS Bhayangkara Hasta Brata",
         "alamat": "Jalan Raden Ajeng Kartini No. 1",
+        "kelurahan": "Ngaglik",
+        "kecamatan": "Batu",
         "kategori": "Infrastruktur Kesehatan",
         "sub_kategori": "Rumah Sakit"
       },
@@ -33,6 +37,8 @@
       "properties": {
         "nama": "RSIA Haji",
         "alamat": "Jalan Agus Salim No. 35",
+        "kelurahan": "Sisir",
+        "kecamatan": "Batu",
         "kategori": "Infrastruktur Kesehatan",
         "sub_kategori": "Rumah Sakit"
       },
@@ -46,6 +52,8 @@
       "properties": {
         "nama": "RS dr Etty Asharto",
         "alamat": "Jalan Sajid No. 44",
+        "kelurahan": "Pesanggrahan",
+        "kecamatan": "Batu",
         "kategori": "Infrastruktur Kesehatan",
         "sub_kategori": "Rumah Sakit"
       },
@@ -59,6 +67,8 @@
       "properties": {
         "nama": "RS Baptis Batu",
         "alamat": "Jalan Raya P. Sudirman/Raya Tlekung No. 1",
+        "kelurahan": "Tlekung",
+        "kecamatan": "Junrejo",
         "kategori": "Infrastruktur Kesehatan",
         "sub_kategori": "Rumah Sakit"
       },
@@ -72,6 +82,8 @@
       "properties": {
         "nama": "RS Punten",
         "alamat": "Jalan Kenanga No. 300",
+        "kelurahan": "Bulukerto",
+        "kecamatan": "Bumiaji",
         "kategori": "Infrastruktur Kesehatan",
         "sub_kategori": "Rumah Sakit"
       },
@@ -86,6 +98,8 @@
       "properties": {
         "nama": "Puskesmas Batu",
         "alamat": "Jl. Samadi No.71",
+        "kelurahan": "Pesanggrahan",
+        "kecamatan": "Batu",
         "kategori": "Infrastruktur Kesehatan",
         "sub_kategori": "Puskesmas"
       },
@@ -99,6 +113,8 @@
       "properties": {
         "nama": "Puskesmas Sisir",
         "alamat": "Jl. H. Sultan Hasan Jl. Sutan Hasan Halim",
+        "kelurahan": "Sisir",
+        "kecamatan": "Batu",
         "kategori": "Infrastruktur Kesehatan",
         "sub_kategori": "Puskesmas"
       },
@@ -112,6 +128,8 @@
       "properties": {
         "nama": "Puskesmas Beji",
         "alamat": "Jl. Ir. Soekarno No.30",
+        "kelurahan": "Beji",
+        "kecamatan": "Junrejo",
         "kategori": "Infrastruktur Kesehatan",
         "sub_kategori": "Puskesmas"
       },
@@ -125,6 +143,8 @@
       "properties": {
         "nama": "Puskesmas Junrejo",
         "alamat": "Jl. Pronoyudo No.30",
+        "kelurahan": "Dadaprejo",
+        "kecamatan": "Junrejo",
         "kategori": "Infrastruktur Kesehatan",
         "sub_kategori": "Puskesmas"
       },
@@ -138,6 +158,8 @@
       "properties": {
         "nama": "Puskesmas Bumiaji",
         "alamat": "Jl. Raya Pandanrejo No.43",
+        "kelurahan": "Pandanrejo",
+        "kecamatan": "Bumiaji",
         "kategori": "Infrastruktur Kesehatan",
         "sub_kategori": "Puskesmas"
       },
@@ -152,8 +174,10 @@
       "properties": {
         "nama": "Klinik Pratama Margi Rahayu",
         "alamat": "Jl. Panglima Sudirman No.91",
+        "kelurahan": "Ngaglik",
+        "kecamatan": "Batu",
         "kategori": "Infrastruktur Kesehatan",
-        "sub_kategori": "Klinik"
+        "sub_kategori": "Klinik Pratama"
       },
       "geometry": {
         "type": "Point",
@@ -165,8 +189,10 @@
       "properties": {
         "nama": "Klinik Al Izzah",
         "alamat": "Jl. Indragiri Gg. 6",
+        "kelurahan": "Sumberejo",
+        "kecamatan": "Batu",
         "kategori": "Infrastruktur Kesehatan",
-        "sub_kategori": "Klinik"
+        "sub_kategori": "Klinik Pratama"
       },
       "geometry": {
         "type": "Point",
@@ -178,8 +204,10 @@
       "properties": {
         "nama": "Klinik Pratama Arsa Medika",
         "alamat": "Jl. Imam Bonjol Jl. Hasannudin No.64",
+        "kelurahan": "Bumiaji",
+        "kecamatan": "Bumiaji",
         "kategori": "Infrastruktur Kesehatan",
-        "sub_kategori": "Klinik"
+        "sub_kategori": "Klinik Pratama"
       },
       "geometry": {
         "type": "Point",
@@ -191,8 +219,10 @@
       "properties": {
         "nama": "Mega Health Clinic",
         "alamat": "Jl. Hasanudin No.17",
+        "kelurahan": "Pesanggrahan",
+        "kecamatan": "Batu",
         "kategori": "Infrastruktur Kesehatan",
-        "sub_kategori": "Klinik"
+        "sub_kategori": "Klinik Pratama"
       },
       "geometry": {
         "type": "Point",
@@ -204,8 +234,10 @@
       "properties": {
         "nama": "Klinik Pratama NU",
         "alamat": "Jl. Agus Salim No.21 - 23",
+        "kelurahan": "Sisir",
+        "kecamatan": "Batu",
         "kategori": "Infrastruktur Kesehatan",
-        "sub_kategori": "Klinik"
+        "sub_kategori": "Klinik Pratama"
       },
       "geometry": {
         "type": "Point",
@@ -217,8 +249,10 @@
       "properties": {
         "nama": "Klinik Polres Batu (Poliklinik Urkes)",
         "alamat": "Jl. AP. III Katjoeng Permadi No.16",
+        "kelurahan": "Junrejo",
+        "kecamatan": "Junrejo",
         "kategori": "Infrastruktur Kesehatan",
-        "sub_kategori": "Klinik"
+        "sub_kategori": "Klinik Pratama"
       },
       "geometry": {
         "type": "Point",
@@ -230,8 +264,10 @@
       "properties": {
         "nama": "Klinik Pusdik Arhanud",
         "alamat": "Jl. Ksatrian Arhanud (Pusdik Arhanud)",
+        "kelurahan": "Pendem",
+        "kecamatan": "Junrejo",
         "kategori": "Infrastruktur Kesehatan",
-        "sub_kategori": "Klinik"
+        "sub_kategori": "Klinik Pratama"
       },
       "geometry": {
         "type": "Point",
@@ -243,8 +279,10 @@
       "properties": {
         "nama": "Klinik dr. Sri Rahati",
         "alamat": "Jl. Samadi No.25",
+        "kelurahan": "Pesanggrahan",
+        "kecamatan": "Batu",
         "kategori": "Infrastruktur Kesehatan",
-        "sub_kategori": "Klinik"
+        "sub_kategori": "Klinik Pratama"
       },
       "geometry": {
         "type": "Point",
