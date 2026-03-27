@@ -1,0 +1,256 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RSUD Karsa Husada Batu",
+        "alamat": "Jl. Ahmad Yani No.11-13",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Rumah Sakit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.52347045134503, -7.872105437569565]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS Bhayangkara Hasta Brata",
+        "alamat": "Jalan Raden Ajeng Kartini No. 1",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Rumah Sakit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.52376587664156, -7.8715440932031955]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RSIA Haji",
+        "alamat": "Jalan Agus Salim No. 35",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Rumah Sakit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.52836287791153, -7.879623142039365]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS dr Etty Asharto",
+        "alamat": "Jalan Sajid No. 44",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Rumah Sakit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5116736644177, -7.868346443524781]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS Baptis Batu",
+        "alamat": "Jalan Raya P. Sudirman/Raya Tlekung No. 1",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Rumah Sakit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.53823155081011, -7.906163036110743]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS Punten",
+        "alamat": "Jalan Kenanga No. 300",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Rumah Sakit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.53051227791153, -7.839020471377784]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Batu",
+        "alamat": "Jl. Samadi No.71",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Puskesmas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.51403964907702, -7.871115600445393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Sisir",
+        "alamat": "Jl. H. Sultan Hasan Jl. Sutan Hasan Halim",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Puskesmas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5347470955427, -7.871167120336633]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Beji",
+        "alamat": "Jl. Ir. Soekarno No.30",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Puskesmas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.54351222408035, -7.88794877300698]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Junrejo",
+        "alamat": "Jl. Pronoyudo No.30",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Puskesmas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5782069644177, -7.91228166611273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Bumiaji",
+        "alamat": "Jl. Raya Pandanrejo No.43",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Puskesmas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.53954893757404, -7.8643352452910165]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Klinik Pratama Margi Rahayu",
+        "alamat": "Jl. Panglima Sudirman No.91",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Klinik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.51587199524475, -7.867983373688238]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Klinik Al Izzah",
+        "alamat": "Jl. Indragiri Gg. 6",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Klinik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.50532653572624, -7.857803786437114]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Klinik Pratama Arsa Medika",
+        "alamat": "Jl. Imam Bonjol Jl. Hasannudin No.64",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Klinik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.53264001058625, -7.856673492255537]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Mega Health Clinic",
+        "alamat": "Jl. Hasanudin No.17",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Klinik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.51042752223252, -7.870885481433713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Klinik Pratama NU",
+        "alamat": "Jl. Agus Salim No.21 - 23",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Klinik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.52750723757403, -7.87250180406436]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Klinik Polres Batu (Poliklinik Urkes)",
+        "alamat": "Jl. AP. III Katjoeng Permadi No.16",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Klinik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.55422089524524, -7.904742808085527]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Klinik Pusdik Arhanud",
+        "alamat": "Jl. Ksatrian Arhanud (Pusdik Arhanud)",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Klinik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.58209705324835, -7.895912694986832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Klinik dr. Sri Rahati",
+        "alamat": "Jl. Samadi No.25",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Klinik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.51333030708587, -7.870558049064674]
+      }
+    }
+
+  ]
+}
