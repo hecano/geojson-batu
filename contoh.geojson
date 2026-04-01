@@ -1,0 +1,976 @@
+```json
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RSUD Karsa Husada Batu",
+        "alamat": "Jl. Ahmad Yani No.11-13",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Rumah Sakit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.52347045134503, -7.872105437569565]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS Bhayangkara Hasta Brata",
+        "alamat": "Jalan Raden Ajeng Kartini No. 1",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Rumah Sakit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.52376587664156, -7.8715440932031955]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RSIA Haji",
+        "alamat": "Jalan Agus Salim No. 35",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Rumah Sakit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.52836287791153, -7.879623142039365]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS dr Etty Asharto",
+        "alamat": "Jalan Sajid No. 44",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Rumah Sakit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5116736644177, -7.868346443524781]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS Baptis Batu",
+        "alamat": "Jalan Raya P. Sudirman/Raya Tlekung No. 1",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Rumah Sakit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.53823155081011, -7.906163036110743]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS Punten",
+        "alamat": "Jalan Kenanga No. 300",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Rumah Sakit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.53051227791153, -7.839020471377784]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Batu",
+        "alamat": "Jl. Samadi No.71",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Puskesmas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.51403964907702, -7.871115600445393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Sisir",
+        "alamat": "Jl. H. Sultan Hasan Jl. Sutan Hasan Halim",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Puskesmas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5347470955427, -7.871167120336633]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Beji",
+        "alamat": "Jl. Ir. Soekarno No.30",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Puskesmas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.54351222408035, -7.88794877300698]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Junrejo",
+        "alamat": "Jl. Pronoyudo No.30",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Puskesmas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5782069644177, -7.91228166611273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Bumiaji",
+        "alamat": "Jl. Raya Pandanrejo No.43",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Puskesmas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.53954893757404, -7.8643352452910165]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Klinik Pratama Margi Rahayu",
+        "alamat": "Jl. Panglima Sudirman No.91",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Klinik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.51587199524475, -7.867983373688238]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Klinik Al Izzah",
+        "alamat": "Jl. Indragiri Gg. 6",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Klinik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.50532653572624, -7.857803786437114]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Klinik Pratama Arsa Medika",
+        "alamat": "Jl. Imam Bonjol Jl. Hasannudin No.64",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Klinik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.53264001058625, -7.856673492255537]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Mega Health Clinic",
+        "alamat": "Jl. Hasanudin No.17",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Klinik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.51042752223252, -7.870885481433713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Klinik Pratama NU",
+        "alamat": "Jl. Agus Salim No.21 - 23",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Klinik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.52750723757403, -7.87250180406436]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Klinik Polres Batu (Poliklinik Urkes)",
+        "alamat": "Jl. AP. III Katjoeng Permadi No.16",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Klinik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.55422089524524, -7.904742808085527]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Klinik Pusdik Arhanud",
+        "alamat": "Jl. Ksatrian Arhanud (Pusdik Arhanud)",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Klinik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.58209705324835, -7.895912694986832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Klinik dr. Sri Rahati",
+        "alamat": "Jl. Samadi No.25",
+        "kategori": "Infrastruktur Kesehatan",
+        "sub_kategori": "Klinik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.51333030708587, -7.870558049064674]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MAN KOTA BATU",
+        "alamat": "JL. PATTIMURA NO.25 BATU",
+        "kelurahan": "Temas",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.53788815813058, -7.8826538253694105]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MAS 01 MA`ARIF BATU",
+        "alamat": "JL GONDOREJO NO 1044 RT. 2 RW. 11 ORO ORO OMBO BATU",
+        "kelurahan": "Oro-Oro Ombo",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5365952779103, -7.893577592350741]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SLB EKA MANDIRI BATU",
+        "alamat": "Jl. Terusan Kasiman",
+        "kelurahan": "Ngaglik",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.51905813415055, -7.871661054135124]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMAN 1 BATU",
+        "alamat": "JL. KH. AGUS SALIM 57 BATU",
+        "kelurahan": "Sisir",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.52787743600179, -7.878735423630206]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMAS AL-IZZAH BATU",
+        "alamat": "Jalan Indragiri Gg. Pangkur No.78",
+        "kelurahan": "Sumberejo",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.50267148010263, -7.857151120552757]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMAS IMMANUEL BATU",
+        "alamat": "JL. WUKIR NO. 3 BATU",
+        "kelurahan": "Sisir",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.53554083415062, -7.8781858964295335]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMAS ISLAM BATU",
+        "alamat": "JL. MUSTARI NO. 07 BATU",
+        "kelurahan": "Ngaglik",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5236098071658, -7.87555961170246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMAS ISLAM HASYIM ASY ARI BATU",
+        "alamat": "JL. SEMERU 22 B BATU",
+        "kelurahan": "Sisir",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.52789898018108, -7.869936947582791]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMAS KATOLIK YOS SUDARSO BATU",
+        "alamat": "JL. PANGLIMA SUDIRMAN NO. 67 BATU",
+        "kelurahan": "Ngaglik",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.51909896483745, -7.868773447106656]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMAS MUHAMMADIYAH 3 BATU",
+        "alamat": "JL. CEMARA KIPAS NO. 122",
+        "kelurahan": "Sidomulyo",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.52569123600134, -7.8514774682910895]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMAS PGRI BATU",
+        "alamat": "JL. IMAM BONJOL III / 9 BATU",
+        "kelurahan": "Sisir",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.52967226668876, -7.877841740507421]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMKN 1 BATU",
+        "alamat": "JL. BROMO NO.11 BATU",
+        "kelurahan": "Sisir",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.52721537832988, -7.867531979545528]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMKN 3 BATU",
+        "alamat": "TERUSAN METRO - DUSUN SANTREAN",
+        "kelurahan": "Sumberejo",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.51889016483715, -7.851939001337197]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMKS 17 AGUSTUS BATU",
+        "alamat": "JL.Ir. Soekarno No. 1 Beji Kota Batu",
+        "kelurahan": "Sisir",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.53286679367369, -7.892997339529287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMKS BRAWIJAYA BATU",
+        "alamat": "JL. SUDARNO NO. 26 BATU",
+        "kelurahan": "Ngaglik",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.52065278018097, -7.873378982838206]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMKS ISLAM BATU",
+        "alamat": "JL. BARAT STADION BRANTAS",
+        "kelurahan": "Sisir",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.52567270901707, -7.877345712663228]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMKS MAARIF",
+        "alamat": "JL. PANDERMAN NO 26",
+        "kelurahan": "Sisir",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.52887530006159, -7.870884877980559]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMKS MUHAMMADIYAH 1 BATU",
+        "alamat": "JL. WELIRANG NO. 17 BATU",
+        "kelurahan": "Sisir",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.53360432250923, -7.872209837623007]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMKS PUTIKECWARA BATU",
+        "alamat": "JL. PANGLIMA SUDIRMAN NO.91C",
+        "kelurahan": "Ngaglik",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.51588649367328, -7.868180507735504]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MA AL IRSYAD TENGARAN 7 KOTA BATU",
+        "alamat": "JALAN MOJOWARNO NO 63 RT/RW 020/003",
+        "kelurahan": "Mojorejo",
+        "kecamatan": "Junrejo",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.56096554949443, -7.898300278054484]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MAS BILINGUAL",
+        "alamat": "JALAN PRONOYUDO DADAPREJO JUNREJO KOTA BATU",
+        "kelurahan": "Dadaprejo",
+        "kecamatan": "Junrejo",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.57916574949456, -7.912471458288265]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMAN 2 BATU",
+        "alamat": "JL. HASANUDIN JUNREJO",
+        "kelurahan": "Junrejo",
+        "kecamatan": "Junrejo",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5538920513456, -7.905855247458415]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMKS BHINEKA TUNGGAL IKA INDONESIA",
+        "alamat": "JL. RAYA JUNREJO NO 3",
+        "kelurahan": "Junrejo",
+        "kecamatan": "Junrejo",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5582651932538, -7.910140484769812]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMKS Kesehatan Amanah Husada",
+        "alamat": "Jl. Patimura No. 20 Kel. Junrejo Kec. Junrejo Kota Batu",
+        "kelurahan": "Junrejo",
+        "kecamatan": "Junrejo",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.55926116484322, -7.9027423071802305]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SLB NEGERI",
+        "alamat": "Jalan Masjid Gang Lapangan",
+        "kelurahan": "Bumiaji",
+        "kecamatan": "Bumiaji",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.53778709935564, -7.853922294726985]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMA AL HIKMAH BOARDING SCHOOL BATU",
+        "alamat": "Jl. Raya Giripurno No. 145",
+        "kelurahan": "Giripurno",
+        "kecamatan": "Bumiaji",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.55996736942897, -7.853940624366944]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMA Negeri 3",
+        "alamat": "Jl. Joko Bundu",
+        "kelurahan": "Sumbergondo",
+        "kecamatan": "Bumiaji",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.53004476422969, -7.834511606308894]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMKN 2 BATU",
+        "alamat": "Jl. Raya Pandanrejo 39 A Pandanrejo",
+        "kelurahan": "Pandanrejo",
+        "kecamatan": "Bumiaji",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.54037699367866, -7.864011699963499]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMKS WIYATA HUSADA",
+        "alamat": "Jl. Kenanga No. 300",
+        "kelurahan": "Bulukerto",
+        "kecamatan": "Bumiaji",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5305387430517, -7.838907370225686]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMP AHMAD YANI",
+        "alamat": "Jl. Wukir VII",
+        "kelurahan": "Temas",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5431295931545, -7.876811336084002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMP AL IZZAH BATU",
+        "alamat": "Jl. INDRAGIRI GG PANGKUR NO 78 KOTA BATU",
+        "kelurahan": "Sumberejo",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.50270952742088, -7.857353386784124]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMP Al Izzah Leadership School",
+        "alamat": "Jl Indragiri Gg. Pangkur",
+        "kelurahan": "Sumberejo",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.50383354720799, -7.858157800951869]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMP DARUSH SHOLIHIN",
+        "alamat": "Jl. Suropati 139",
+        "kelurahan": "Pesanggrahan",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.51226276858367, -7.873308451548178]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMP IMMANUEL",
+        "alamat": "Jl. Wukir 03",
+        "kelurahan": "Sisir",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.53560753943935, -7.878909619434962]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMP ISLAM 01",
+        "alamat": "Jl. Wr. Supratman 6",
+        "kelurahan": "Sisir",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.52797336320003, -7.873058344665133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMP K WIDYATAMA",
+        "alamat": "Jalan Panglima Sudirman No. 59",
+        "kelurahan": "Ngaglik",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.51874990213554, -7.870025271368098]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMP MAARIF BATU",
+        "alamat": "",
+        "kelurahan": "Oro-Oro Ombo",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.53462525062457, -7.893756413553082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMP MUHAMMADIYAH 02",
+        "alamat": "Jl. Bukit Berbunga 175",
+        "kelurahan": "Sidomulyo",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5281722471158, -7.846417583647102]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMP MUHAMMADIYAH 08",
+        "alamat": "Jl. Welirang 17",
+        "kelurahan": "Sisir",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.53112147741203, -7.873156627851067]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMP MUSLIM CENDEKIA",
+        "alamat": "Jl. Wukir Gang Pondok RT 02 RW 04",
+        "kelurahan": "Temas",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.54449128082841, -7.878681763321057]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMP NEGERI 01 BATU",
+        "alamat": "Jl. KH. Agus Salim 55",
+        "kelurahan": "Sisir",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5280211178617, -7.878172843209387]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMP NEGERI 02 BATU",
+        "alamat": "",
+        "kelurahan": "Sisir",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.52728357046692, -7.8673684450960515]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMP PGRI 01",
+        "alamat": "Jl. Arjuno 40 E Kota Batu",
+        "kelurahan": "Sisir",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.53081455824959, -7.868957790274971]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMP RADEN FATAH",
+        "alamat": "Jalan Bukit Berbunga 261",
+        "kelurahan": "Sidomulyo",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.52808895922882, -7.842915236631304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMP TAMANSISWA",
+        "alamat": "Jl. Kh Agus Salim 45 Batu",
+        "kelurahan": "Sisir",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.52746644082832, -7.8753332448314275]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMPN SATU ATAP PESANGGRAHAN 2",
+        "alamat": "Jl. Cempaka Atas No 01",
+        "kelurahan": "Pesanggrahan",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.50132965831526, -7.8838550257148565]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MTSS HASYIM ASYARI",
+        "alamat": "JL. SEMERU 22 BATU",
+        "kelurahan": "Sisir",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.52831441160991, -7.869664958927938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MTSS SA AL HIDAYAH",
+        "alamat": "JL. PATIMURA GG. VI GLONGGONG",
+        "kelurahan": "Temas",
+        "kecamatan": "Batu",
+        "kategori": "Sekolah",
+        "sub_kategori": "SMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.53812428103767, -7.886421190995656]
+      }
+    }
+  ]
+}
+```
