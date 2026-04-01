@@ -1,7 +1,6 @@
 {
   "type": "FeatureCollection",
   "features": [
-    
     {
       "type": "Feature",
       "properties": {
@@ -9,7 +8,7 @@
         "alamat": "Jl. Ahmad Yani No.11-13",
         "kelurahan": "Ngaglik",
         "kecamatan": "Batu",
-        "kategori": "Infrastruktur Kesehatan",
+        "kategori": "Fasilitas Kesehatan",
         "sub_kategori": "Rumah Sakit"
       },
       "geometry": {
@@ -24,7 +23,7 @@
         "alamat": "Jalan Raden Ajeng Kartini No. 1",
         "kelurahan": "Ngaglik",
         "kecamatan": "Batu",
-        "kategori": "Infrastruktur Kesehatan",
+        "kategori": "Fasilitas Kesehatan",
         "sub_kategori": "Rumah Sakit"
       },
       "geometry": {
@@ -39,7 +38,7 @@
         "alamat": "Jalan Agus Salim No. 35",
         "kelurahan": "Sisir",
         "kecamatan": "Batu",
-        "kategori": "Infrastruktur Kesehatan",
+        "kategori": "Fasilitas Kesehatan",
         "sub_kategori": "Rumah Sakit"
       },
       "geometry": {
@@ -54,7 +53,7 @@
         "alamat": "Jalan Sajid No. 44",
         "kelurahan": "Pesanggrahan",
         "kecamatan": "Batu",
-        "kategori": "Infrastruktur Kesehatan",
+        "kategori": "Fasilitas Kesehatan",
         "sub_kategori": "Rumah Sakit"
       },
       "geometry": {
@@ -69,7 +68,7 @@
         "alamat": "Jalan Raya P. Sudirman/Raya Tlekung No. 1",
         "kelurahan": "Tlekung",
         "kecamatan": "Junrejo",
-        "kategori": "Infrastruktur Kesehatan",
+        "kategori": "Fasilitas Kesehatan",
         "sub_kategori": "Rumah Sakit"
       },
       "geometry": {
@@ -84,7 +83,7 @@
         "alamat": "Jalan Kenanga No. 300",
         "kelurahan": "Bulukerto",
         "kecamatan": "Bumiaji",
-        "kategori": "Infrastruktur Kesehatan",
+        "kategori": "Fasilitas Kesehatan",
         "sub_kategori": "Rumah Sakit"
       },
       "geometry": {
@@ -92,7 +91,6 @@
         "coordinates": [112.53051227791153, -7.839020471377784]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -100,7 +98,7 @@
         "alamat": "Jl. Samadi No.71",
         "kelurahan": "Pesanggrahan",
         "kecamatan": "Batu",
-        "kategori": "Infrastruktur Kesehatan",
+        "kategori": "Fasilitas Kesehatan",
         "sub_kategori": "Puskesmas"
       },
       "geometry": {
@@ -115,7 +113,7 @@
         "alamat": "Jl. H. Sultan Hasan Jl. Sutan Hasan Halim",
         "kelurahan": "Sisir",
         "kecamatan": "Batu",
-        "kategori": "Infrastruktur Kesehatan",
+        "kategori": "Fasilitas Kesehatan",
         "sub_kategori": "Puskesmas"
       },
       "geometry": {
@@ -130,7 +128,7 @@
         "alamat": "Jl. Ir. Soekarno No.30",
         "kelurahan": "Beji",
         "kecamatan": "Junrejo",
-        "kategori": "Infrastruktur Kesehatan",
+        "kategori": "Fasilitas Kesehatan",
         "sub_kategori": "Puskesmas"
       },
       "geometry": {
@@ -145,7 +143,7 @@
         "alamat": "Jl. Pronoyudo No.30",
         "kelurahan": "Dadaprejo",
         "kecamatan": "Junrejo",
-        "kategori": "Infrastruktur Kesehatan",
+        "kategori": "Fasilitas Kesehatan",
         "sub_kategori": "Puskesmas"
       },
       "geometry": {
@@ -160,7 +158,7 @@
         "alamat": "Jl. Raya Pandanrejo No.43",
         "kelurahan": "Pandanrejo",
         "kecamatan": "Bumiaji",
-        "kategori": "Infrastruktur Kesehatan",
+        "kategori": "Fasilitas Kesehatan",
         "sub_kategori": "Puskesmas"
       },
       "geometry": {
@@ -168,7 +166,6 @@
         "coordinates": [112.53954893757404, -7.8643352452910165]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -176,7 +173,7 @@
         "alamat": "Jl. Panglima Sudirman No.91",
         "kelurahan": "Ngaglik",
         "kecamatan": "Batu",
-        "kategori": "Infrastruktur Kesehatan",
+        "kategori": "Fasilitas Kesehatan",
         "sub_kategori": "Klinik Pratama"
       },
       "geometry": {
@@ -191,7 +188,7 @@
         "alamat": "Jl. Indragiri Gg. 6",
         "kelurahan": "Sumberejo",
         "kecamatan": "Batu",
-        "kategori": "Infrastruktur Kesehatan",
+        "kategori": "Fasilitas Kesehatan",
         "sub_kategori": "Klinik Pratama"
       },
       "geometry": {
@@ -206,7 +203,7 @@
         "alamat": "Jl. Imam Bonjol Jl. Hasannudin No.64",
         "kelurahan": "Bumiaji",
         "kecamatan": "Bumiaji",
-        "kategori": "Infrastruktur Kesehatan",
+        "kategori": "Fasilitas Kesehatan",
         "sub_kategori": "Klinik Pratama"
       },
       "geometry": {
@@ -221,7 +218,7 @@
         "alamat": "Jl. Hasanudin No.17",
         "kelurahan": "Pesanggrahan",
         "kecamatan": "Batu",
-        "kategori": "Infrastruktur Kesehatan",
+        "kategori": "Fasilitas Kesehatan",
         "sub_kategori": "Klinik Pratama"
       },
       "geometry": {
@@ -236,7 +233,7 @@
         "alamat": "Jl. Agus Salim No.21 - 23",
         "kelurahan": "Sisir",
         "kecamatan": "Batu",
-        "kategori": "Infrastruktur Kesehatan",
+        "kategori": "Fasilitas Kesehatan",
         "sub_kategori": "Klinik Pratama"
       },
       "geometry": {
@@ -251,7 +248,7 @@
         "alamat": "Jl. AP. III Katjoeng Permadi No.16",
         "kelurahan": "Junrejo",
         "kecamatan": "Junrejo",
-        "kategori": "Infrastruktur Kesehatan",
+        "kategori": "Fasilitas Kesehatan",
         "sub_kategori": "Klinik Pratama"
       },
       "geometry": {
@@ -266,7 +263,7 @@
         "alamat": "Jl. Ksatrian Arhanud (Pusdik Arhanud)",
         "kelurahan": "Pendem",
         "kecamatan": "Junrejo",
-        "kategori": "Infrastruktur Kesehatan",
+        "kategori": "Fasilitas Kesehatan",
         "sub_kategori": "Klinik Pratama"
       },
       "geometry": {
@@ -281,7 +278,7 @@
         "alamat": "Jl. Samadi No.25",
         "kelurahan": "Pesanggrahan",
         "kecamatan": "Batu",
-        "kategori": "Infrastruktur Kesehatan",
+        "kategori": "Fasilitas Kesehatan",
         "sub_kategori": "Klinik Pratama"
       },
       "geometry": {
